@@ -14,3 +14,7 @@ Com base na descrição apresentada, desenvolva uma aplicação em Erlang que si
     A geração de moléculas deve ser constante e de forma aleatória com intervalo de tempo parametrizável;
     Cada processo deve ser identificado unicamente e apresentar uma mensagem quando criado informando esta identificação;
     A aplicação deve identificar as combinações realizadas, apresentando a identificação dos elementos combinados;
+
+## Execução do código
+
+Para executar o código, é necessário compilar ele com erlang. Em seguida, é só inicar através de "h2o:start()."
